@@ -1,0 +1,5 @@
+blueharbor-advisory.com A 203.0.113.10
+www.blueharbor-advisory.com A 203.0.113.10
+mail.blueharbor-advisory.com A 203.0.113.25
+ops.blueharbor-advisory.com A 198.51.100.77
+cdn.blueharbor-advisory.com CNAME edge.example.invalid
