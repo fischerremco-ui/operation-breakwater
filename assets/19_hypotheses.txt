@@ -1,0 +1,15 @@
+HYPOTHESES
+H1: Elias Merrow travelled for legitimate consultancy work.
+H2: Elias Merrow coordinated logistics around a concealed cargo movement.
+H3: Elias Merrow was visiting Port Aurelia as a tourist.
+
+OBSERVATIONS
+- Alias links to Blue Harbor Advisory consultant Elias Merrow.
+- Encoded note references Pier 17.
+- Photo and shadow timing place him at Pier 17 shortly after sunrise.
+- Blue Harbor ops host shares TLS fingerprint with Tideline Logistics portal.
+- Tideline shares analytics infrastructure with Meridian Consulting.
+- Hidden manifest host appears in CT logs.
+- Aurora Vale (IMO 9837712) was moored near Pier 17 during the relevant window.
+- Tideline ultimate owner is Mara Voss.
+- No source directly observes illicit cargo, payment, instruction or handover.
