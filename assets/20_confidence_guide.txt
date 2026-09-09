@@ -1,0 +1,6 @@
+ANALYTIC CONFIDENCE GUIDE
+LOW: fragmentary/weakly corroborated information; major alternatives remain equally plausible.
+MODERATE: multiple partly independent indicators converge, but important gaps remain or direct confirmation is absent.
+HIGH: strong, independent, well-corroborated evidence with few material gaps and little credible contradiction.
+
+Reminder: confidence is not probability. State what evidence is missing.
