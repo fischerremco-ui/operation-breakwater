@@ -19,10 +19,5 @@ Vul bovenaan een alias of naam in. Gebruik na afloop **Exporteer resultaat (JSON
 ## Tracks
 Search, SOCMINT, GEOINT, Chronolocation, TECHINT, Infrastructure, Maritime, Aviation, Due Diligence, Verification en Analysis.
 
-## GitHub Pages
-Deze repository is bedoeld om direct vanaf `main` / root via GitHub Pages te publiceren.
-
 ## Security-model
-De flags staan niet leesbaar in de challenge-data maar als SHA-256 hashes. Omdat GitHub Pages statisch is, blijft volledige geheimhouding onmogelijk. Voor interne vakontwikkeling is dit doorgaans voldoende; voor formele competitie is server-side flagvalidatie via bijvoorbeeld CTFd geschikter.
-
 Alle namen, bedrijven, domeinen, locaties en onderzoeksdata in deze CTF zijn synthetisch.
